@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://preview.redd.it/criticise-my-character-design-v0-jwbdfh5tjb1f1.jpeg?width=1080&crop=smart&auto=webp&s=0d6c5cd69295f8a5c6d99292b1fa284da8969e4d" alt="Character Design" height = 300 width="500"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👾%20VATSAL%20JAIN%20👾&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<img src="https://preview.redd.it/criticise-my-character-design-v0-jwbdfh5tjb1f1.jpeg?width=1080&crop=smart&auto=webp&s=0d6c5cd69295f8a5c6d99292b1fa284da8969e4d" alt="Character Design" height="300" width="700"/>
 
-# 👾 VATSAL JAIN 👾
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Engineering+Student;Love+Crazy+Tech;AI+%26+ML+Dev)](https://git.io/typing-svg)
 
 [![Public Repos](https://img.shields.io/badge/Repos-21-ff69b4?style=for-the-badge)](https://github.com/vatsalpjain?tab=repositories)
 
