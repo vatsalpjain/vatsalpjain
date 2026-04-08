@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👾%20VATSAL%20JAIN%20👾&fontSize=50&fontColor=fff&animation=twinkling&desc=Building%20&%20Experimenting" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👾%20VATSAL%20JAIN%20👾&fontSize=50&fontColor=fff&animation=twinkling" width="100%" alt="Header" />
 <img src="https://preview.redd.it/criticise-my-character-design-v0-jwbdfh5tjb1f1.jpeg?width=1080&crop=smart&auto=webp&s=0d6c5cd69295f8a5c6d99292b1fa284da8969e4d" alt="Character Design" height="300" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5); margin: 20px 0;">
 
 
-[![Public Repos](https://img.shields.io/badge/Repos-21-ff69b4?style=for-the-badge)](https://github.com/vatsalpjain?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Repos-30-ff69b4?style=for-the-badge)](https://github.com/vatsalpjain?tab=repositories)
 
 </div>
 
@@ -15,7 +15,7 @@
 ```ascii
 ╔══════════════════════════════════════════╗
 ║  🔥 Building & Experimenting             ║
-║  🚀 21 Public Repositories               ║
+║  🚀 30 Public Repositories               ║
 ║  💡 Love Crazy Tech                      ║
 ║  👨‍💻 Engineering Student                  ║
 ║  ⚡ Always Learning Something New        ║
