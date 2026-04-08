@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👾%20VATSAL%20JAIN%20👾&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-<img src="https://preview.redd.it/criticise-my-character-design-v0-jwbdfh5tjb1f1.jpeg?width=1080&crop=smart&auto=webp&s=0d6c5cd69295f8a5c6d99292b1fa284da8969e4d" alt="Character Design" height="300" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=👾%20VATSAL%20JAIN%20👾&fontSize=50&fontColor=fff&animation=twinkling&desc=Building%20&%20Experimenting" width="100%" alt="Header" />
+<img src="https://preview.redd.it/criticise-my-character-design-v0-jwbdfh5tjb1f1.jpeg?width=1080&crop=smart&auto=webp&s=0d6c5cd69295f8a5c6d99292b1fa284da8969e4d" alt="Character Design" height="300" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5); margin: 20px 0;">
 
 
 [![Public Repos](https://img.shields.io/badge/Repos-21-ff69b4?style=for-the-badge)](https://github.com/vatsalpjain?tab=repositories)
@@ -51,6 +51,21 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 📌 PINNED PROJECTS
+
+- 🚀 **[WhyyTorch](https://github.com/vatsalpjain/WhyyTorch)** (Jupyter Notebook)
+  *Wanted to understand the core working of pytorch , So To remove the abstraction , I built A similar one*
+- 🤖 **[AutoFlow](https://github.com/vatsalpjain/AutoFlow)** (Python)
+- 🎵 **[Groovi](https://github.com/vatsalpjain/Groovi)** (Python)
+  *Music For Your Vibe*
+- 📈 **[Selfish](https://github.com/vatsalpjain/Selfish)** (TypeScript)
+  *A Feel Based Life Tracking App*
+- 🛠️ **[AutoRAG](https://github.com/vatsalpjain/AutoRAG)** (Python) ⭐ 1
+  *A RAG optimization CLI tool package*
+- 📊 **[StockPricePrediction](https://github.com/vatsalpjain/StockPricePrediction)** (Jupyter Notebook)
 
 ---
 
